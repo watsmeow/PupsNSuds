@@ -1,4 +1,4 @@
-import image1 from "../assets/t-image1.png";
+import image1 from "../assets/t-image1.JPG";
 import image2 from "../assets/t-image2.jpg";
 import image3 from "../assets/t-image3.jpg";
 
@@ -6,20 +6,20 @@ export const testimonialsData = [
   {
     image: image1,
     review:
-      "I made the right choice by choosing the Fitclub and by choosing the right plan and program I already achieved my ideal body!",
-    name: 'MATHEW HENDRICKSON',
-    status : 'ENTREPRENEUR'
+      "My coat always comes out super shiny and I get a treat afterwards.",
+    name: 'LUKAS',
+    status : 'Good boi'
   },
   {
     image: image2,
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsam, ab itaque nam perferendis impedit sint ',
-    name: 'JOHN KEVIN',
-    status: 'COACH'
+    review: 'I will catch the water as it comes out of the spout one day!',
+    name: 'SYDNEY',
+    status: 'Bestest girl'
   },
   {
     image : image3,
-    review:' Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima aspernatur quod voluptatem',
+    review:'My mom likes it when I smell gud.',
     name: 'FRANKLIN',
-    status: "CUSTOMER"
+    status: "Big softie"
   }
 ];
